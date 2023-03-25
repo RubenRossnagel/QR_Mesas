@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QR_Mesas.MainPage">
+
+    <StackLayout>
+        <Button Text="Generar código QR" Clicked="GenerateButton_Clicked" />
+        <Button Text="Escanear código QR" Clicked="ScanButton_Clicked" />
+        <ContentView x:Name="QrCodeContainer" />
+        <Label x:Name="QrContentLabel" />
+    </StackLayout>
+
+</ContentPage>

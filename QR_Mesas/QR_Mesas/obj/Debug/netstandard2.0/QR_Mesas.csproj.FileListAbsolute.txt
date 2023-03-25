@@ -1,0 +1,15 @@
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.csproj.AssemblyReference.cache
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.AssemblyInfoInputs.cache
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.AssemblyInfo.cs
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.dll
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\refint\QR_Mesas.dll
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\QR_Mesas.pdb
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\bin\Debug\netstandard2.0\QR_Mesas.deps.json
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\bin\Debug\netstandard2.0\QR_Mesas.dll
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\bin\Debug\netstandard2.0\QR_Mesas.pdb
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ruben\source\repos\QR_Mesas\QR_Mesas\QR_Mesas\obj\Debug\netstandard2.0\ref\QR_Mesas.dll
